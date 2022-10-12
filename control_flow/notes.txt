@@ -1,0 +1,49 @@
+Contrl Flow (Conditional Statements):
+    1. If..Else
+        Syntax:
+            if(condition/expression){
+                //rest of the code/code block/true logic
+            }else{
+                //rest of the code/code block/false logic
+            }
+    2. if..else if..else if..else if...else
+        Syntax:
+            if(condition/expression0){
+
+            } else if(condition/expression1){
+
+            } else if(condition/expression2){
+
+            }else{
+
+            }
+Contrl Flow (Looping Controls):
+    1. for loop
+        Syntax:
+            for(initialization(variable declaration); expression/condition; updateVariableStatement; ){
+                
+            }
+    2. While Loop
+        Syntax:
+        while(expression/condition){
+            //rest of the code/code block
+        }
+    3. Do..While Loop
+        do{
+            //rest of the code/code block
+        }while(expression/condition)
+
+    4. Switch..Case
+        switch(expression/condition){
+            case constant:
+            //rest of the code/code block
+            break;
+            case constant2:
+            //rest of the code/code block
+            break;
+            .
+            .
+            .
+            
+            //Default Statements
+        }

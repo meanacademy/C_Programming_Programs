@@ -1,0 +1,8 @@
+Add All Files to Remote Repo
+git add .
+
+Commit Code
+git commit -m "message"
+
+Push Code
+git push
